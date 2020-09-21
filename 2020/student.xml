@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<root>
+  <name>Students</name>
+  <student color="white">
+    <faculty color="green">Cybernetics</faculty>
+    <course color="white">2</course>
+    <average_mark red="green">5</average_mark>
+  </student>
+  <student color="white">
+    <faculty color="green">IT</faculty>
+    <course color="white">3</course>
+    <average_mark red="green">3</average_mark>
+  </student>
+</root>
